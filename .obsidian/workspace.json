@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa24ede8e395c6db",
+        "id": "24241e0b1614a394",
         "type": "tabs",
         "children": [
           {
-            "id": "8c04f7921d858bd6",
+            "id": "3044a78822034b1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#一阶可导点是极值点的必要条件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,17 +177,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c04f7921d858bd6",
+  "active": "3044a78822034b1c",
   "lastOpenFiles": [
-    "高数技巧.md",
-    "高数易错知识点笔记.md",
-    "高数基础30讲_知识点与思维导图.md",
-    "高数基础30讲_习题思路与重点筛选.md",
+    "未命名 1.base",
+    "未命名.base",
     "二轮强化笔记摘录.md",
     "attachments/Pasted image 20260810155023.png",
-    "attachments/Pasted image 20260810154912.png",
-    "attachments/Pasted image 20260810154722.png",
     "attachments/Pasted image 20260810154834.png",
+    "attachments/Pasted image 20260810154722.png",
+    "高数易错知识点笔记.md",
+    "高数技巧.md",
+    "高数基础30讲_知识点与思维导图.md",
+    "高数基础30讲_习题思路与重点筛选.md",
+    "attachments/Pasted image 20260810154912.png",
     "attachments",
     "新建 Bitmap image.bmp"
   ]
