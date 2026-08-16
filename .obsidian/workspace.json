@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#一阶可导点是极值点的必要条件",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -137,18 +140,6 @@
             }
           },
           {
-            "id": "349db3810f1fd2a0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "高数基础30讲_知识点与思维导图.md"
-              },
-              "icon": "lucide-list",
-              "title": "高数基础30讲_知识点与思维导图 的大纲"
-            }
-          },
-          {
             "id": "97ffe2d05998ebaf",
             "type": "leaf",
             "state": {
@@ -156,6 +147,21 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "3c715117579fec06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高数易错知识点笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ],
@@ -177,21 +183,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3044a78822034b1c",
+  "active": "3c715117579fec06",
   "lastOpenFiles": [
-    "高数技巧.md",
+    "attachments/Pasted image 20260816145730.png",
+    "attachments/Pasted image 20260815215506.png",
     "高数易错知识点笔记.md",
+    "高数技巧.md",
+    "attachments/Pasted image 20260815144309.png",
     "高数好题.md",
+    "attachments/Pasted image 20260815112559.png",
+    "attachments/Pasted image 20260815093718.png",
+    "attachments/Pasted image 20260814233748.png",
+    "attachments/Pasted image 20260814172148.png",
+    "attachments/Pasted image 20260814161919.png",
+    "未命名.base",
+    "未命名 1.base",
+    "attachments/Pasted image 20260814161633.png",
+    "attachments/Pasted image 20260814161620.png",
+    "attachments/Pasted image 20260814161519.png",
     "二轮强化笔记摘录.md",
     "高数基础30讲_习题思路与重点筛选.md",
     "高数基础30讲_知识点与思维导图.md",
-    "未命名 1.base",
-    "未命名.base",
-    "attachments/Pasted image 20260810155023.png",
-    "attachments/Pasted image 20260810154834.png",
-    "attachments/Pasted image 20260810154722.png",
-    "attachments/Pasted image 20260810154912.png",
-    "attachments",
-    "新建 Bitmap image.bmp"
+    "attachments"
   ]
 }
