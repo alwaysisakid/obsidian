@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "da3868161f5348fe",
@@ -133,7 +134,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -165,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,12 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c715117579fec06",
+  "active": "97ffe2d05998ebaf",
   "lastOpenFiles": [
+    "高数技巧.md",
+    "高数易错知识点笔记.md",
     "attachments/Pasted image 20260816145730.png",
     "attachments/Pasted image 20260815215506.png",
-    "高数易错知识点笔记.md",
-    "高数技巧.md",
     "attachments/Pasted image 20260815144309.png",
     "高数好题.md",
     "attachments/Pasted image 20260815112559.png",
@@ -200,7 +203,6 @@
     "未命名 1.base",
     "attachments/Pasted image 20260814161633.png",
     "attachments/Pasted image 20260814161620.png",
-    "attachments/Pasted image 20260814161519.png",
     "二轮强化笔记摘录.md",
     "高数基础30讲_习题思路与重点筛选.md",
     "高数基础30讲_知识点与思维导图.md",
