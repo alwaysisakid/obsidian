@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数知识点.md",
+                "file": "高数知识点复习精简版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高数知识点"
+              "title": "高数知识点复习精简版"
             }
           }
         ],
@@ -114,8 +114,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数技巧.md",
-                "collapseAll": false,
+                "file": "高数知识点.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数知识点.md",
+                "file": "高数知识点复习精简版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90d64e1a915a3367",
+  "active": "97ffe2d05998ebaf",
   "lastOpenFiles": [
-    "小论题/二型平面积分与路径无关的论题.md",
     "高数知识点.md",
+    "高数知识点复习精简版.md",
+    "小论题/二型平面积分与路径无关的论题.md",
     "高数技巧.md",
     "高数基础30讲_知识点与思维导图.md",
     "二轮强化笔记摘录.md",
