@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "24241e0b1614a394",
+        "id": "6ed450925c56c2ff",
         "type": "tabs",
         "children": [
           {
-            "id": "3044a78822034b1c",
+            "id": "785e8148c9e9eb14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数知识点.md",
+                "file": "概率论总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高数知识点"
-            }
-          },
-          {
-            "id": "90d64e1a915a3367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高数知识点复习精简版.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "高数知识点复习精简版"
+              "title": "概率论总结"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.10000610351562
   },
   "right": {
     "id": "da3868161f5348fe",
@@ -162,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数知识点复习精简版.md",
+                "file": "概率论总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,27 +187,38 @@
   },
   "active": "97ffe2d05998ebaf",
   "lastOpenFiles": [
-    "高数知识点.md",
+    "考研数学知识点&公式合集.pdf",
+    "考研数学知识点&公式合集、.pdf",
+    "考研数学知识点&公式合集(1).pdf",
+    "考研数学公式手册随身看(打印版).pdf",
+    "考研数学公式大全(高清版).pdf",
+    "线代总结.md",
+    "概率论总结.md",
+    "高数知识点复习详细版.md",
+    "线代公式.pdf",
+    "高数公式-数一 .pdf",
+    "高数好题.md",
+    "attachments/Pasted image 20260814161633.png",
+    "二轮强化笔记摘录.md",
+    "高数做题总结.md",
+    "线代公式-6230244a6fe0.pdf.qkdownloading",
+    "高数公式-数一 -724fa5e69162.pdf.qkdownloading",
     "高数知识点复习精简版.md",
+    "高数知识点.md",
     "小论题/二型平面积分与路径无关的论题.md",
     "高数技巧.md",
     "高数基础30讲_知识点与思维导图.md",
-    "二轮强化笔记摘录.md",
     "小论题",
     "attachments/Pasted image 20260816145730.png",
     "attachments/Pasted image 20260815215506.png",
     "attachments/Pasted image 20260815144309.png",
-    "高数好题.md",
     "attachments/Pasted image 20260815112559.png",
     "attachments/Pasted image 20260815093718.png",
     "attachments/Pasted image 20260814233748.png",
     "attachments/Pasted image 20260814172148.png",
     "attachments/Pasted image 20260814161919.png",
     "未命名.base",
-    "未命名 1.base",
-    "attachments/Pasted image 20260814161633.png",
     "attachments/Pasted image 20260814161620.png",
-    "高数基础30讲_习题思路与重点筛选.md",
-    "attachments"
+    "高数基础30讲_习题思路与重点筛选.md"
   ]
 }

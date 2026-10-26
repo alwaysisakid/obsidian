@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "activeSetId": "default",
+  "visibleSetIds": [
+    "default"
+  ],
+  "sets": [
+    {
+      "id": "default",
+      "name": "My notes",
+      "kind": "manual",
+      "accent": "#7c5cff",
+      "created": "2026-10-25T04:10:03.389Z",
+      "updated": "2026-10-25T04:10:03.389Z"
+    },
+    {
+      "id": "ce8455fd",
+      "name": "select",
+      "kind": "manual",
+      "accent": "#2383e2",
+      "created": "2026-10-25T04:14:20.380Z",
+      "updated": "2026-10-25T04:14:30.119Z",
+      "archived": true
+    }
+  ]
+}

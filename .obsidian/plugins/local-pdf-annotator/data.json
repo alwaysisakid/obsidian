@@ -1,0 +1,19 @@
+{
+  "paletteColors": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "registerAsDefaultPdfHandler": true,
+  "enableNativeOverlay": true,
+  "renderAnnotationsAsMarkdown": false,
+  "annotationStorageMode": "folder",
+  "annotationStorageFolder": "PDF annotations",
+  "ai": {
+    "provider": "openai",
+    "protocol": "openai-compatible",
+    "baseUrl": "https://api.openai.com/v1",
+    "model": "gpt-5.4-mini"
+  }
+}
